@@ -1,1 +1,1 @@
-web: gunicorn dashapp/app:server
+web: sh ./dashapp/run.sh
