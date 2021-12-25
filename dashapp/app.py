@@ -13,6 +13,7 @@ import json
 
 
 app = dash.Dash(__name__)
+server = app.server
 
 df = pd.read_csv('../outputs/idf_clusterized_cities.csv')
 df["B/GPE Class"] = df["B/GPE Class"].apply(str)
