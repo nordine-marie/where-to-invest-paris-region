@@ -1,0 +1,8 @@
+**/.bloop/*
+**/.metals/*
+**/.vscode/*
+**/target/*
+**/venv/*
+**/.DS_Store
+data/*
+**/.ipynb_checkpoints/*
