@@ -2,6 +2,8 @@
 
 By defining a Building Score and a Grand Paris Express Score I was able to classify the cities of the Paris region in order to determine the cities in which it seems interesting to invest. The results obtained are in line with the investment advice available on the Internet. Finally, a web application using these results has been designed to facilitate decision-making according to the profile of each user.
 
+A complete report of this Data project can be found in the `report` folder.
+
 ## Author
 [@nordine-marie](https://www.github.com/nordine-marie) - Student at TELECOM SudParis
 
