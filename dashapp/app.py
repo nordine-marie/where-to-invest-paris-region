@@ -117,4 +117,4 @@ def create_time_series(city):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=True,port=8050)
